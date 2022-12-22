@@ -4,7 +4,7 @@ title: 개발에 유용한 툴들
 description: null
 featuredImage: null
 img: null
-categories: [tools]
+categories: [개발, javascript, react]
 date: "2022-12-22"
 extensions:
   preset: gfm

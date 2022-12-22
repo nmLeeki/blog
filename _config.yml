@@ -20,10 +20,10 @@ timezone: Asia/Shanghai
 
 title: 개발기행 # the main title
 
-tagline: # it will display as the sub-title
+tagline: 아무것도 하지 않으면 아무 일도 일어나지 않는다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  사이드프로젝트 기록 및 개발지식 기록 블로그
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://nmleeki.github.io"
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: kiheang
-  email: example@domain.com # change to your email address
+  email: leeki1501@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/nmleeki # change to your github homepage
