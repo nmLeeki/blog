@@ -1,9 +1,13 @@
 ---
-title: "github.io 블로그 시작하기"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
-
-categories:
-  - Blog
+layout: post
+title: 개발에 유용한 툴들
+description: null
+featuredImage: null
+img: null
+categories: [tools]
+date: "2022-12-22"
+extensions:
+  preset: gfm
 ---
 
 GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
